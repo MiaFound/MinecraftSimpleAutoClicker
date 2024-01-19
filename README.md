@@ -1,4 +1,4 @@
-# clicker
+# Minecraft Simple Auto Clicker
 Minecraft auto-clicker made in modern C++, performance optimized and easy to use.  
 Tested on Forge, Vanilla, Lunar and Badlion. 1.8.9 and 1.7.10.
 
@@ -10,7 +10,7 @@ Tested on Forge, Vanilla, Lunar and Badlion. 1.8.9 and 1.7.10.
 Download the latest release at the [releases section](https://github.com/MiaFound/MinecraftSimpleAutoClicker/releases/).
 
 ## Bugs or suggestions
-Bugs or suggestions should be reported at the [issues section](https://github.com/MinecraftSimpleAutoClicker/issues).
+Bugs or suggestions should be reported at the [issues section](https://github.com/MiaFound/MinecraftSimpleAutoClicker/issues).
 
 ### Compiling errors
 If you get errors related to DirectX, please install the DirectX Software Development Kit.
