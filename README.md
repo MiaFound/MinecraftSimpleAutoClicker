@@ -4,6 +4,10 @@ Tested on Forge, Vanilla, Lunar and Badlion. 1.8.9 and 1.7.10.
 
 ![image](https://b.catgirlsare.sexy/JfRVFDUWAG19.png)
 
+# Disclaimer
+
+Some anti-virus programs like Norton and Windows Defender might flag this app as a virus due to its innovative file compression technology. This is a known false positive; you can safely use the app without worry.
+
 # Getting started
 
 **Download**
